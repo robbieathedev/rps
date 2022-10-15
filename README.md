@@ -1,1 +1,1 @@
-# rps
+# I'm building paper, rock, scissors for the first time with HTML, CSS, and JS
